@@ -1,4 +1,4 @@
-from src.math_opertaions import add,subtract 
+from src.math_operations import add, subtract
 
 def test_add():
      assert add(1,2) == 3
